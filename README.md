@@ -16,8 +16,8 @@ This is a simple Bash script that automates the backup of directories. It prompt
    cd automated-backup-script
 
 2. Run the backup script:
-```bash
-chmod +x backup.sh
-./backup.sh
+  ```bash
+  chmod +x backup.sh
+  ./backup.sh
 
 3. Follow the prompts to specify the directory to back up and the backup destination.
