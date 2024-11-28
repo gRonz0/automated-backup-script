@@ -19,7 +19,6 @@ This is a simple Bash script that automates the backup of directories. It prompt
   ```bash
   chmod +x backup.sh
   ./backup.sh
+```
 
-
-
-3. Follow the prompts to specify the directory to back up and the backup destination.
+3. Follow the prompts to specify the directory to back up and the backup destination. 
